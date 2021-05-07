@@ -3,6 +3,7 @@ A simple Photoshop template or `.png` file to demo your web application as an im
 
 - Resolution: 1920x1080
 - Mac OS X window shadows were removed by hand with Photoshop.
+- Neutral Chromium browser user interface
 - Photoshop `.psd` included in repository.
 - You can fill out the address bar and tab description yourself.
 - License is Creative Commons. Check LICENSE file for details.
